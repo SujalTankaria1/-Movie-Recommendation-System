@@ -190,7 +190,6 @@ Place similarity.pkl into the root folder (Movie-Recommendation-System/)
 The file should sit beside app.py
 
 
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -203,11 +202,19 @@ The file should sit beside app.py
 
 This project is open source and available under the [MIT License](LICENSE).
 
+## 🙌 Credits
+
+TMDB 5000 Movies Dataset from Kaggle
+
+scikit-learn, pandas, nltk
+
+
 ## 📞 Contact
 
 For questions or suggestions, please open an issue in the repository.
 
 ---
+
 
 **Note**: Make sure to have the required CSV files in your project directory before running the system.
 \`\`\`
