@@ -177,6 +177,19 @@ Reduces words to their root form (e.g., "running" → "run") to improve matching
 - Add movie poster integration
 - Implement real-time recommendations
 
+🔗 Download Required File
+This project requires a precomputed similarity matrix file: similarity.pkl, which is not included in the repository due to GitHub's file size limit.
+
+👉 📥 Click here to download similarity.pkl(https://drive.google.com/file/d/1OrZoZWVDx7ZTEKPLP2eBg3Q_VAdTAq83/view?usp=drive_link)
+
+After downloading:
+
+Place similarity.pkl into the root folder (Movie-Recommendation-System/)
+
+The file should sit beside app.py
+
+
+
 ## 🤝 Contributing
 
 1. Fork the repository
